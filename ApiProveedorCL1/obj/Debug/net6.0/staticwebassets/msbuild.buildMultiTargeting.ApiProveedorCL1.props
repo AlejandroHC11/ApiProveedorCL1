@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiProveedorCL1.props" />
+</Project>
